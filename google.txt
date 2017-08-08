@@ -1,0 +1,33 @@
+GOOGLE 1.1 - Intro to video for google chrome
+GOOGLE 1.2 - Searching in a browser for google chrome
+GOOGLE 1.3 - The downloads page for google chrome
+GOOGLE 1.4 - Accepting Terms for google chrome
+GOOGLE 1.5 - Running the program google chrome
+GOOGLE 1.6 - Outro to video for google chrome
+
+
+
+GOOGLE 1.1 - Intro to video for google chrome
+Hey friends! Chris from Codify Academy here.
+
+In this video i'm going to show you how to download the google chrome web browser for your Mac
+
+GOOGLE 1.2 - Searching in a browser for google chrome
+Open the Safari browser, then type google chrome download into the search bar and press enter.
+Then choose "Download Now".
+
+GOOGLE 1.3 - The downloads page for google chrome
+This downloads page should appear where you can click download chrome,
+on the next pop up click "accept and install"
+
+GOOGLE 1.4 - Execute google chrome
+Its saved in your download folder, click the download icon on the top right of safari to start installation
+
+
+GOOGLE 1.5 - Running the program google chrome
+Once finished you just need to drag the google chrome browser icon into you applications folder.
+
+Then you can search for it using command-spacebar
+
+GOOGLE 1.6 - Outro to video for google chrome
+Once that's complete you have google chrome on your computer, goodjob!
